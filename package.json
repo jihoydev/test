@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "telegraf": "^4.5.2"
+  },
+  "name": "bot-app",
+  "version": "1.0.0",
+  "main": "bot.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
